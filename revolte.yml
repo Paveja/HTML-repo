@@ -1,7 +1,7 @@
 revolte:
   version: '1.0'
-  project: Training proj
-  appName: FE app
+  project: test project
+  appName: new app
   config:
     codeReview:
       summarize: true
