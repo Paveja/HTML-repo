@@ -1,7 +1,7 @@
 revolte:
   version: '1.0'
-  project: test project
-  appName: new app
+  project: new project
+  appName: new app one
   config:
     codeReview:
       summarize: true
